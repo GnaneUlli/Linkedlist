@@ -22,7 +22,7 @@ there are 4 types of linked lists
 
 The above definition carries to a single linked list
 
-//Node of a singularly linked list
+//Node of a singular linked list 
 
  struct Node {
 
